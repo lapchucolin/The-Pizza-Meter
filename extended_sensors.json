@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-01-20T00:30:46.022901",
+  "total_searched": 16,
+  "total_found": 9,
+  "valid_sensors": 9,
+  "locations": [
+    {
+      "search_name": "Domino's Pizza Crystal City",
+      "query": "Domino's Pizza Crystal City Arlington VA",
+      "found_name": "Domino's Pizza",
+      "address": "3535 S Ball St, Arlington, VA 22202, United States",
+      "rating": 2.5,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "Little Caesars Arlington",
+      "query": "Little Caesars Pizza Arlington VA",
+      "found_name": "Little Caesars Pizza",
+      "address": "5025 Columbia Pike, Arlington, VA 22204, United States",
+      "rating": 3.6,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "Wiseguy Pizza Pentagon",
+      "query": "Wiseguy Pizza Pentagon City Arlington VA",
+      "found_name": "Wiseguy Pizza",
+      "address": "710 12th St S, Arlington, VA 22202, United States",
+      "rating": 4.8,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "Pete's New Haven Pizza",
+      "query": "Pete's New Haven Style Apizza Arlington VA",
+      "found_name": "Pete's New Haven Style Apizza",
+      "address": "4940 Wisconsin Ave, Washington, DC 20016, United States",
+      "rating": 4.2,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "Mia's Italian Kitchen",
+      "query": "Mia's Italian Kitchen Arlington VA",
+      "found_name": "Mia's Italian Kitchen",
+      "address": "100 King St, Alexandria, VA 22314, United States",
+      "rating": 4.5,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "We The Pizza Capitol Hill",
+      "query": "We The Pizza Capitol Hill Washington DC",
+      "found_name": "We, The Pizza",
+      "address": "305 Pennsylvania Ave. SE, Washington, DC 20003, United States",
+      "rating": 4.4,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "McDonald's Pentagon City",
+      "query": "McDonald's Pentagon City Arlington VA",
+      "found_name": "McDonald's",
+      "address": "Fashion Centre Mall, 1100 S Hayes St, Arlington, VA 22202, United States",
+      "rating": 3.6,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "Freddie's Beach Bar",
+      "query": "Freddie's Beach Bar Crystal City Arlington VA",
+      "found_name": "Freddie's Beach Bar & Restaurant",
+      "address": "555 23rd St S, Arlington, VA 22202, United States",
+      "rating": 4.4,
+      "has_populartimes": true
+    },
+    {
+      "search_name": "Crystal City Sports Pub",
+      "query": "Crystal City Sports Pub Arlington VA",
+      "found_name": "Crystal City Sports Pub",
+      "address": "529 23rd St S, Arlington, VA 22202, United States",
+      "rating": 4.3,
+      "has_populartimes": true
+    }
+  ]
+}

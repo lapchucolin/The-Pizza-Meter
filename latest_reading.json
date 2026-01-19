@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-01-20T00:07:17.575706",
+  "sensors": [
+    {
+      "sensor": "Domino's Pizza (Crystal City)",
+      "role": "Primary",
+      "current": null,
+      "usual": 0,
+      "indicator_type": "pizza_spike"
+    },
+    {
+      "sensor": "Freddie's Beach Bar",
+      "role": "Inverse",
+      "current": null,
+      "usual": 27,
+      "indicator_type": "inverse"
+    }
+  ],
+  "market": {
+    "has_data": true,
+    "vix": 18.89,
+    "gold": 4676.0,
+    "errors": [],
+    "vix_change": 1.4,
+    "gold_change": 0.91
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Domino's Pizza",
+    "role": "Primary Indicator",
+    "place_id": "ChIJiRsMcTKxt4kRb9rj3ZyTt-M",
+    "address": "3535 S Ball St, Arlington, VA 22202, United States",
+    "search_query": "Domino's Pizza Crystal City Arlington VA",
+    "method": "livepopulartimes"
+  },
+  {
+    "name": "Papa John's Pizza",
+    "role": "Secondary Validation",
+    "place_id": null,
+    "needs_manual": true
+  },
+  {
+    "name": "Freddie's Beach Bar",
+    "role": "Inverse Indicator",
+    "place_id": "ChIJlxXYvim3t4kR4MCE7Wn3AqI",
+    "method": "previously_discovered"
+  }
+]
