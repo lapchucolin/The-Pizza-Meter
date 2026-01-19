@@ -1,12 +1,17 @@
 # -*- mode: python ; coding: utf-8 -*-
+from PyInstaller.utils.hooks import collect_submodules
+
+hiddenimports = ['flask', 'plotly', 'pandas', 'yfinance', 'livepopulartimes', 'werkzeug', 'jinja2']
+hiddenimports += collect_submodules('yfinance')
+hiddenimports += collect_submodules('plotly')
 
 
 a = Analysis(
-    ['src\\dashboard.py'],
+    ['D:\\download\\Pizza-Meter-Project\\The-Pizza-Meter\\src\\dashboard.py'],
     pathex=[],
     binaries=[],
-    datas=[],
-    hiddenimports=[],
+    datas=[('D:\\download\\Pizza-Meter-Project\\The-Pizza-Meter\\src\\dashboard.py', '.')],
+    hiddenimports=hiddenimports,
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
